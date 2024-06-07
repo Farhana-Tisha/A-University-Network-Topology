@@ -1,1 +1,3 @@
 # A-University-Network-Topology
+
+This network topology for a university consists of 6 routers representing different campuses: EEE, CSE, ECE, ICE, GEB, and MPS. Each router is interconnected, forming the backbone of the university network. Additionally, switches are connected to each router, serving various purposes such as connecting classrooms, labs, library, department offices, and a Wi-Fi router. The network includes devices like PCs, printers, laptops, and smartphones, which are connected to the switches. Furthermore, there is a DHCP server connected to the EEE router for assigning IP addresses to hosts within the network, and a DNS server is present to support the HTTP server.
